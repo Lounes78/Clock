@@ -1,2 +1,2 @@
 # Clock
-A clock created in SDL just for fun
+A clock created using SDL2 in C just for fun
